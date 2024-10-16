@@ -1,4 +1,6 @@
 # Inventory and Order Management API Endpoints
+Develop the backend system for user authentication, inventory management, and
+order processing.
 
 ## User Endpoints
 - **POST /api/auth/register** - Register a new user.
